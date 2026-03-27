@@ -189,3 +189,7 @@
 - If you want to improve this list, prefer adding projects with clear OpenClaw relevance, real maintenance signal, and concise factual descriptions.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=alvinunreal/awesome-openclaw&type=Date)](https://www.star-history.com/#alvinunreal/awesome-openclaw&Date)
