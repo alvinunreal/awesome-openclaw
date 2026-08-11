@@ -97,6 +97,7 @@
 - [JunjieYu95/glancely](https://github.com/JunjieYu95/glancely) ![GitHub Repo stars](https://img.shields.io/github/stars/JunjieYu95/glancely?style=social) - All-in-one personal tracker skill bundle — diary, mood, reminders, daily MIT with read-only dashboard.
 - [HITsz-TMG/VideoClaw](https://github.com/HITsz-TMG/VideoClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/HITsz-TMG/VideoClaw?style=social) - AI video generation coworker — chat an idea and produce a film-style output for OpenClaw-style agents.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social) - Local 24/7 screen recording that plugs into OpenClaw, Hermes, and other agents (YC S26).
+- [Bevel-Software/Hexis](https://github.com/Bevel-Software/Hexis) ![GitHub Repo stars](https://img.shields.io/github/stars/Bevel-Software/Hexis?style=social) - Git-backed platform for skills, tools, and context for AI agents, accessible from OpenClaw through its remote MCP server.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
