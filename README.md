@@ -278,4 +278,4 @@
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=alvinunreal/awesome-openclaw&type=Date)](https://www.star-history.com/#alvinunreal/awesome-openclaw&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=alvinreal/awesome-openclaw&type=Date)](https://star-history.dera.page/#alvinreal/awesome-openclaw&Date)
