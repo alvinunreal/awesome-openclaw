@@ -153,6 +153,7 @@
 - [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) ![GitHub Repo stars](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=social) - One-click installer for OpenClaw setups.
 - [justlovemaki/openclaw-docker-cn-im](https://github.com/justlovemaki/openclaw-docker-cn-im) ![GitHub Repo stars](https://img.shields.io/github/stars/justlovemaki/openclaw-docker-cn-im?style=social) - Docker distribution preconfigured for major Chinese IM integrations.
 - [linuxhsj/openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token) ![GitHub Repo stars](https://img.shields.io/github/stars/linuxhsj/openclaw-zero-token?style=social) - Run OpenClaw against major AI models without traditional API tokens.
+- [Molted](https://www.molted.net) - Managed hosting platform built for operating fleets of OpenClaw agents: auto-healing recovery with post-mortems, versioned agent state with point-in-time restore, per-instance version pinning, and per-agent email, phone, browser and integrations.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
