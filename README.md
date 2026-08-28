@@ -252,6 +252,7 @@
 ## 🎓 Learning Resources
 
 - [alvinunreal/awesome-openclaw-tips](https://github.com/alvinunreal/awesome-openclaw-tips) ![GitHub Repo stars](https://img.shields.io/github/stars/alvinunreal/awesome-openclaw-tips?style=social) - Curated OpenClaw tips, setup advice, and practical usage guidance.
+- [starqazstar/openclaw-safe-first-run](https://github.com/starqazstar/openclaw-safe-first-run) ![GitHub Repo stars](https://img.shields.io/github/stars/starqazstar/openclaw-safe-first-run?style=social) - Safety-first first-session checklist — sender allowlists, credential hygiene, spending caps, and risk by route (EN/中文).
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) ![GitHub Repo stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social) - Real-world use cases and applied examples.
 - [AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) ![GitHub Repo stars](https://img.shields.io/github/stars/AlexAnys/awesome-openclaw-usecases-zh?style=social) - Chinese OpenClaw use-case collection covering office, content, ops, and knowledge-management scenarios.
 - [datawhalechina/hello-claw](https://github.com/datawhalechina/hello-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/hello-claw?style=social) - Structured Chinese tutorial for getting started with OpenClaw.
