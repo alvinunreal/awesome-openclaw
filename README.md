@@ -177,6 +177,7 @@
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) ![GitHub Repo stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=social) - Persistent session memory for agents including OpenClaw — capture, compress, and reinject relevant context across runs.
 - [LycheeMem/LycheeMem](https://github.com/LycheeMem/LycheeMem) ![GitHub Repo stars](https://img.shields.io/github/stars/LycheeMem/LycheeMem?style=social) - Lightweight long-term memory for LLM agents with OpenClaw plugin support.
 - [max-ng/datamoat](https://github.com/max-ng/datamoat) ![GitHub Repo stars](https://img.shields.io/github/stars/max-ng/datamoat?style=social) - Export, back up, search, and reuse conversation memory across ChatGPT, Claude, Codex, Cursor, and OpenClaw.
+- [Neboy72/nexus-memory](https://github.com/Neboy72/nexus-memory) ![GitHub Repo stars](https://img.shields.io/github/stars/Neboy72/nexus-memory?style=social) - Self-hosted Qdrant-backed memory provider with hybrid retrieval, reranking, and memory dynamics; one store shared across OpenClaw, Hermes, and MCP agents.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
