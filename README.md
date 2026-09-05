@@ -215,6 +215,7 @@
 - [omarshahine/HomeClaw](https://github.com/omarshahine/HomeClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/HomeClaw?style=social) - HomeKit smart home control via MCP — lights, locks, thermostats, and scenes for OpenClaw.
 - [omarshahine/restaurant-cli](https://github.com/omarshahine/restaurant-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/restaurant-cli?style=social) - Pluggable CLI for booking restaurant reservations — Resy, OpenTable, Tock, SevenRooms. Works as both OpenClaw plugin and Claude Code plugin.
 - [win4r/openclaw-a2a-gateway](https://github.com/win4r/openclaw-a2a-gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/win4r/openclaw-a2a-gateway?style=social) - OpenClaw plugin implementing the A2A (Agent-to-Agent) protocol for bidirectional agent communication.
+- [dream-num/openclaw-univer-office](https://github.com/dream-num/openclaw-univer-office) ![GitHub Repo stars](https://img.shields.io/github/stars/dream-num/openclaw-univer-office?style=social) - OpenClaw plugin for creating and reviewing collaborative office artifacts in Univer Workspace, with self-hosted deployment and import/export workflows.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
