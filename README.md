@@ -176,7 +176,8 @@
 - [MemTensor/MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/MemTensor/MemOS-Cloud-OpenClaw-Plugin?style=social) - Official MemOS Cloud plugin for OpenClaw — recall context before runs and save conversations after.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) ![GitHub Repo stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=social) - Persistent session memory for agents including OpenClaw — capture, compress, and reinject relevant context across runs.
 - [LycheeMem/LycheeMem](https://github.com/LycheeMem/LycheeMem) ![GitHub Repo stars](https://img.shields.io/github/stars/LycheeMem/LycheeMem?style=social) - Lightweight long-term memory for LLM agents with OpenClaw plugin support.
-- [max-ng/datamoat](https://github.com/max-ng/datamoat) ![GitHub Repo stars](https://img.shields.io/github/stars/max-ng/datamoat?style=social) - Export, back up, search, and reuse conversation memory across ChatGPT, Claude, Codex, Cursor, and OpenClaw.
+- [max-ng/datamoat](https://github.com/max-ng/datamoat)
+- [ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes](https://github.com/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes) ![GitHub Repo stars](https://img.shields.io/github/stars/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes?style=social) - Zero-dependency, local-first cognitive memory engine: compound-cue retrieval from 31 cognitive-science papers, true BM25 + pure-local semantic dictionary (no LLM, no embedding API), native OpenClaw gateway hook, 7-way parallel search under 50ms, built-in Web UI. ![GitHub Repo stars](https://img.shields.io/github/stars/max-ng/datamoat?style=social) - Export, back up, search, and reuse conversation memory across ChatGPT, Claude, Codex, Cursor, and OpenClaw.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
