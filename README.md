@@ -153,6 +153,7 @@
 - [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) ![GitHub Repo stars](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=social) - One-click installer for OpenClaw setups.
 - [justlovemaki/openclaw-docker-cn-im](https://github.com/justlovemaki/openclaw-docker-cn-im) ![GitHub Repo stars](https://img.shields.io/github/stars/justlovemaki/openclaw-docker-cn-im?style=social) - Docker distribution preconfigured for major Chinese IM integrations.
 - [linuxhsj/openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token) ![GitHub Repo stars](https://img.shields.io/github/stars/linuxhsj/openclaw-zero-token?style=social) - Run OpenClaw against major AI models without traditional API tokens.
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ![GitHub Repo stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social) - Records an OpenClaw run and replays it offline with the network off, or forks it from any step onto a different model. Catches the gateway's own calls with a fetch hook and the coding agents it spawns through inherited environment variables, so one recording covers both.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
