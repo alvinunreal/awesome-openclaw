@@ -97,6 +97,7 @@
 - [JunjieYu95/glancely](https://github.com/JunjieYu95/glancely) ![GitHub Repo stars](https://img.shields.io/github/stars/JunjieYu95/glancely?style=social) - All-in-one personal tracker skill bundle — diary, mood, reminders, daily MIT with read-only dashboard.
 - [HITsz-TMG/VideoClaw](https://github.com/HITsz-TMG/VideoClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/HITsz-TMG/VideoClaw?style=social) - AI video generation coworker — chat an idea and produce a film-style output for OpenClaw-style agents.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social) - Local 24/7 screen recording that plugs into OpenClaw, Hermes, and other agents (YC S26).
+- [kochetkov-ma/claude-brewcode](https://github.com/kochetkov-ma/claude-brewcode) ![GitHub Repo stars](https://img.shields.io/github/stars/kochetkov-ma/claude-brewcode?style=social) - OpenClaw skill library including the `brewpage-publish` skill for publishing HTML, Markdown, JSON, and files to brewpage.app.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
